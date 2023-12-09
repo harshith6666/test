@@ -1,1 +1,2 @@
 Adding new lint to the file
+another line in the file
